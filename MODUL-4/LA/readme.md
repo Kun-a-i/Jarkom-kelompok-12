@@ -230,14 +230,9 @@ nano /var/www/html/index.nginx-debian.html
 Isi file:
 
 ```html
-<h1>Tumod_4_DMZ_Firewall_XX-KelompokX</h1>
+<h1>Tumod_4_DMZ_Firewall_12-Kelompok12</h1>
 ```
 
-Contoh:
-
-```html
-<h1>Tumod_4_DMZ_Firewall_03-Kelompok3</h1>
-```
 
 ## Menjalankan Nginx
 
@@ -375,7 +370,7 @@ Hasil:
 Web server berhasil diakses dan menampilkan halaman:
 
 ```text
-Tumod_4_DMZ_Firewall_XX-KelompokX
+Tumod_4_DMZ_Firewall_12-Kelompok12
 ```
 
 ---
