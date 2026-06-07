@@ -30,7 +30,7 @@
 | Client WAN | eth0 | 172.16.100.10/24 |
 | MikroTik ISP | ether3 | 172.16.100.1/24 |
 
-![Topologi Jaringan](/img/topologi.jpeg)
+![Topologi Jaringan](MODUL-4/LA/img/topologi.jpeg)
 
 ---
 
