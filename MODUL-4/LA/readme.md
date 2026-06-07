@@ -30,6 +30,8 @@
 | Client WAN | eth0 | 172.16.100.10/24 |
 | MikroTik ISP | ether3 | 172.16.100.1/24 |
 
+![Topologi Jaringan](/img/topologi.jpeg)
+
 ---
 
 # 3. Konfigurasi MikroTik ISP
@@ -179,6 +181,8 @@ route add default gw 192.168.10.1
 
 ---
 
+![IP LAN](/img/IP_LAN.jpeg)
+
 # 7. Konfigurasi Client WAN
 
 IP Address:
@@ -198,6 +202,8 @@ route add default gw 172.16.100.1
 ```
 
 ---
+
+![IP WAN](/img/IP_WAN.jpeg)
 
 # 8. Konfigurasi Ubuntu Server DMZ
 
@@ -395,3 +401,47 @@ Walaupun terdapat kendala pada Ubuntu Server dan PNETLab, konfigurasi perangkat 
 4. Ubuntu Server pada jaringan DMZ mengalami kendala saat melakukan instalasi Nginx meskipun telah terhubung ke internet sehingga pengujian layanan web tidak dapat dilakukan secara maksimal.
 5. PNETLab mengalami masalah dalam menjalankan beberapa node Linux yang menyebabkan proses konfigurasi dan pengujian menjadi kurang optimal.
 6. Meskipun terdapat kendala teknis selama praktikum, tujuan utama untuk mempelajari konsep DMZ, routing, NAT, dan firewall tetap dapat tercapai.
+
+# 13. Dokumentasi Hasil Pengujian
+
+## Topologi Jaringan
+![Topologi Jaringan](/img/topologi.jpeg)
+
+## Konfigurasi IP LAN
+![IP LAN](/img/IP_LAN.jpeg)
+
+## Konfigurasi IP WAN
+![IP WAN](/img/IP_WAN.jpeg)
+
+## MikroTik DHCP dan Routing
+![MikroTik DHCP dan Routing](/img/Mikrotik_route_ip_dhcp_print.jpeg)
+
+## Konfigurasi Interface FortiGate
+![FortiGate Interfaces](/img/Fortinet_interfaces_print.jpeg)
+
+## Routing Table FortiGate
+![FortiGate Routing Table](/img/Fortinet_routing_table.jpeg)
+
+## Routing Table LAN
+![LAN Routing Table](/img/LAN_routing_table.jpeg)
+
+## Pengujian Ping Gateway DMZ
+![DMZ Gateway Ping](/img/DMZ_192.168.20.1_ping.jpeg)
+
+## Status Layanan Nginx pada DMZ
+![DMZ Nginx Active](/img/DMZ_nginx_active_check.jpeg)
+
+## Pengujian Ping dari LAN
+![LAN Ping Check](/img/LAN_ping_check.jpeg)
+
+## Hasil Akhir Pengujian LAN
+![LAN Final Result](/img/LAN_Final_result.jpeg)
+
+## Pengujian Ping dari WAN
+![WAN Ping Check](/img/WAN_Ping_check.jpeg)
+
+## Hasil Akhir Pengujian WAN
+![WAN Final Result](/img/WAN_Final_result.jpeg)
+
+## Pengujian Routing Cisco Router
+![Cisco Route Test](/img/Cisco_Rooute_Test.jpeg)
