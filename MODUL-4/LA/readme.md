@@ -1,14 +1,7 @@
 # LAPORAN PRAKTIKUM
-## Modul 4 - Implementasi DMZ dan Firewall
+## Modul 4 - TUGAS MODUL
 
-### Nama
-[Nama Mahasiswa]
-
-### NIM
-[NIM]
-
-### Kelas
-[Kelas]
+### KELOMPOK 12
 
 ---
 
