@@ -7,12 +7,12 @@ Pada tugas modul ini, praktikan diperintahkan untuk membuat sebuah jaringan yang
 
 Berikut merupakan Topologi dari jaringan yang akan dibuat. 
 
-![](./img/topologi)
+![topologi](./img/topologi.jpeg)
 
 -----
 ## TUGAS 1 
 
 Berikut merupakan hasil dari konfigurasi untuk Cisco Switch Jakarta
 
-![showbriefIP](./img/CISCOJKT_0.JPEG)
-![showbriefvrrp](./img/CISCOJKT_1.JPEG)
+![showbriefIP](./img/CISCOJKT_0.jpeg)
+![showbriefvrrp](./img/CISCOJKT_1.jpeg)
