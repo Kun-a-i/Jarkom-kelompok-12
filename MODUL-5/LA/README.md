@@ -48,6 +48,9 @@ Berikut merupakan hasil dari perintah
 
 untuk Ubuntu Server Jakarta.
 
+![USRVR](./img/UJKT_SRVR_0.jpeg)
+![USRVR0](./img/UJKT_SRVR_1.jpeg)
+
 -----
 ## TUGAS 5
 Berikut merupakan hasil dari perintah
@@ -61,6 +64,11 @@ Berikut merupakan hasil dari perintah
 * `get router info routing-table ospf`
 untuk FortiGate Jakarta
 
+![FGAT0](./img/JKT_FGAT_0.jpeg)
+![FGAT1](./img/JKT_FGAT_1.jpeg)
+![FGAT2](./img/JKT_FGAT_2.jpeg)
+![FGAT3](./img/JKT_FGAT_3.jpeg)
+
 ----
 ## TUGAS 6
 Berikut merupakan hasil dari perintah
@@ -70,6 +78,9 @@ Berikut merupakan hasil dari perintah
 * `ip firewall nat print`
 * `ping 8.8.8.8`
 * ping antar WAN FortiGate
+
+![ISP0](./img/ISP_MKTK_0.jpeg)
+![ISP1](./img/ISP_MKTK_1.jpeg)
 
 ----
 ## TUGAS 7
@@ -84,6 +95,10 @@ Berikut merupakan hasil dari konfigurasi Switch dan Mikrotik Router Surabaya den
 * VPC VLAN 30 mendapatkan IP DHCP
 * VPC ping ke 8.8.8.8
 
+![SWTCH0](./img/SWTCH_SBY_0.jpeg)
+![MKTK0](./img/MKTK_SBY_0.jpeg)
+![VPC0](./img/VPC30_SBY_0.jpeg)
+
 ----
 ## TUGAS 8
 Berikut merupakan hasil dari konfigurasi FortiGate Surabaya untuk perintah
@@ -96,6 +111,11 @@ Berikut merupakan hasil dari konfigurasi FortiGate Surabaya untuk perintah
 * `get router info ospf neighbor`
 * `get router info routing-table ospf`
 
+![FGAT00](./img/FGAT_SBY_0.jpeg)
+![FGAT01](./img/FGAT_SBY_1.jpeg)
+![FGAT02](./img/FGAT_SBY_2.jpeg)
+![FGAT03](./img/FGAT_SBY_3.jpeg)
+![FGAT04](./img/FGAT_SBY_4.jpeg)
 
 ----
 ## TUGAS 9
@@ -108,6 +128,11 @@ Berikut merupakan hasil konfigurasi GRE Tunnel dan OSPF over GRE dengan ketentua
 * Ping client Jakarta ke client Surabaya
 * Ping client Surabaya ke client Jakarta
 
+![FGATJ0](./img/FGAT_JKT_0.jpeg)
+![FGATS0](./img/FGATS_SBY_0.jpeg)
+![FGATJ1](./img/FGAT_JKT_1.jpeg)
+![FGATJ0](./img/JKT_SBY0.jpeg)
+![FGATJ0](./img/SBY_JKT0.jpeg)
 
 ----
 ## TUGAS 10
@@ -122,3 +147,9 @@ Berikut merupakan pengujian akhir dengan ketentuan
 * Routing table OSPF
 * Analisis singkat jalur traffic Jakarta ke Surabaya
 
+![VLAN10](./img/JKT_SBY.jpeg)
+![VLAN20](./img/SBY_JKT.jpeg)
+![VLAN30](./img/VLAN30_PING.jpeg)
+![VLAN10F](./img/VLAN10F_PING.jpeg)
+![VLAN40](./img/VLAN40.jpeg)
+![WEB](./img/WEB.jpeg)
