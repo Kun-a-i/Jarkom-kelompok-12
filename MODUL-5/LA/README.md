@@ -14,5 +14,5 @@ Berikut merupakan Topologi dari jaringan yang akan dibuat.
 
 Berikut merupakan hasil dari konfigurasi untuk Cisco Switch Jakarta
 
-![](./img/CISCOJKT_0.JPEG)
-![](./img/CISCOJKT_1.JPEG)
+![showbriefIP](./img/CISCOJKT_0.JPEG)
+![showbriefvrrp](./img/CISCOJKT_1.JPEG)
